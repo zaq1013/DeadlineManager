@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+test
 
 //////////////////////////////////////////////////////////////////////定義Array的大小
 const int NKLEN = 31, DAY = 31, TIME = 24, PEOPLE = 100;
