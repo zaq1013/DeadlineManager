@@ -2,6 +2,7 @@
 using namespace std;
 
 test
+test22222
 
 //////////////////////////////////////////////////////////////////////定義Array的大小
 const int NKLEN = 31, DAY = 31, TIME = 24, PEOPLE = 100;
