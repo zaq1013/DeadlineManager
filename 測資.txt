@@ -1,0 +1,23 @@
+const std::string    BOT_TOKEN = "MTA0OTMyODA2NTE3NzczNTI0OA.GCSRLL.1iGq7aSKCYWAPA1jFvhHRMsVgRb-1Vto707m5s";
+const dpp::snowflake MY_GUILD_ID = 1049327804799524874;
+
+/setdeadline samples
+
+2022/12/24 23:00 User1 程設作業1
+
+2022/12/25 23:00 User1 程設作業2
+
+2022/10/24 23:00 User1 期中報告
+
+
+mydeadline User1
+
+
+complete:
+
+2022/12/24 23:00 User1
+
+mydeadline User1
+
+check
+
